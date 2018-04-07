@@ -1,2 +1,2 @@
 # CalculadoraDeVetores
-Operações com vetores.
+Operações com vetores utilizando C++.
